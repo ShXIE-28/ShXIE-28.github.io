@@ -1,12 +1,16 @@
 ---
 layout: page
-title: About the Theme
+title: About Shuhui
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2020-05-15
 comments: false
 ---
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+Candidate for Master of Science in Business Analytics (STEM-Designated)
+Brandeis International Business School
+
+<center>✉ shuhuixie@brandeis.edu	📞 6174603068	🌏 <a href="www.linkedin.com/in/shuhui-xie">Shuhui Xie</a></center>
 
 ## Features
 * Minimal, you can focus on your content
