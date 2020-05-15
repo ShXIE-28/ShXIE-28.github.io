@@ -6,10 +6,6 @@ date: 2020-05-15
 comments: false
 ---
 
-{% capture images %}
-    https://github.com/ShXIE-28/ShXIE-28.github.io/blob/master/assets/img/1111.jpg
-{% endcapture %}
-
 <center>Candidate for Master of Science in Business Analytics (STEM-Designated)</center>
 <center>Brandeis International Business School</center>
 
