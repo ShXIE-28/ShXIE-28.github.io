@@ -9,7 +9,7 @@ comments: false
 <center>Candidate for Master of Science in Business Analytics (STEM-Designated)</center>
 <center>Brandeis International Business School</center>
 
-<center>✉: shuhuixie@brandeis.edu &nbsp 📫: shuhui.xie28@outlook.com &nbsp 📞: 617-460-3068 &nbsp 🌏: <a href="www.linkedin.com/in/shuhui-xie">Shuhui Xie(LinkedIn)</a></center>
+<center>✉: shuhuixie@brandeis.edu &nbsp; 📫: shuhui.xie28@outlook.com &nbsp; 📞: 617-460-3068 &nbsp; 🌏: <a href="www.linkedin.com/in/shuhui-xie">Shuhui Xie(LinkedIn)</a></center>
 
 ## Features
 * Minimal, you can focus on your content
