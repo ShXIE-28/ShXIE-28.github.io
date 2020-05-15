@@ -5,12 +5,15 @@ tags: [about, Jekyll, theme, moon]
 date: 2020-05-15
 comments: false
 ---
+    https://github.com/ShXIE-28/ShXIE-28.github.io/blob/master/assets/img/1111.jpg
+{% capture images %}
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-Candidate for Master of Science in Business Analytics (STEM-Designated)
-Brandeis International Business School
+{% endcapture %}
 
-<center>✉ shuhuixie@brandeis.edu	📞 6174603068	🌏 <a href="www.linkedin.com/in/shuhui-xie">Shuhui Xie</a></center>
+<center>Candidate for Master of Science in Business Analytics (STEM-Designated)</center>
+<center>Brandeis International Business School</center>
+
+<center>✉: shuhuixie@brandeis.edu		📫: shuhui.xie28@outlook.com		📞: 617-460-3068		🌏: <a href="www.linkedin.com/in/shuhui-xie">Shuhui Xie(LinkedIn)</a></center>
 
 ## Features
 * Minimal, you can focus on your content
