@@ -5,15 +5,15 @@ tags: [about, Jekyll, theme, moon]
 date: 2020-05-15
 comments: false
 ---
-    https://github.com/ShXIE-28/ShXIE-28.github.io/blob/master/assets/img/1111.jpg
+
 {% capture images %}
-    
+    https://github.com/ShXIE-28/ShXIE-28.github.io/blob/master/assets/img/1111.jpg
 {% endcapture %}
 
 <center>Candidate for Master of Science in Business Analytics (STEM-Designated)</center>
 <center>Brandeis International Business School</center>
 
-<center>✉: shuhuixie@brandeis.edu		📫: shuhui.xie28@outlook.com		📞: 617-460-3068		🌏: <a href="www.linkedin.com/in/shuhui-xie">Shuhui Xie(LinkedIn)</a></center>
+<center>✉: shuhuixie@brandeis.edu   📫: shuhui.xie28@outlook.com   📞: 617-460-3068   🌏: <a href="www.linkedin.com/in/shuhui-xie">Shuhui Xie(LinkedIn)</a></center>
 
 ## Features
 * Minimal, you can focus on your content
