@@ -6,9 +6,7 @@ date: 2020-05-15
 comments: false
 ---
 
-{% capture images %}
-    https://raw.githubusercontent.com/ShXIE-28/ShXIE-28.github.io/master/assets/img/ppp.jpg
-{% endcapture %}
+<img src="https://raw.githubusercontent.com/ShXIE-28/ShXIE-28.github.io/master/assets/img/ppp.jpg">
 
 <center>Candidate for Master of Science in Business Analytics (STEM-Designated)</center>
 <center>Brandeis International Business School</center>
@@ -48,4 +46,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Resume](https://github.com/TaylanTatli/Moon){: .btn}
