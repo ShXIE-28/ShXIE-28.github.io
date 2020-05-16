@@ -24,4 +24,4 @@ Information Visualization, Applied Econometrics with R, Machine Learning and Dat
 <p><b>Wilfrid Laurier University&nbsp;&nbsp;&nbsp;Waterloo, Canada&nbsp;&nbsp;09/2017-12/2017</b><br>
 <i>Exchange program</i></p>
 
-[Resume](https://github.com/TaylanTatli/Moon){: .btn}
+[Resume](https://github.com/ShXIE-28/ShXIE-28.github.io/blob/master/assets/Resume%20Shuhui%20Xie_HC.pdf){: .btn}
