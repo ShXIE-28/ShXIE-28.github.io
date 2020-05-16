@@ -6,6 +6,10 @@ date: 2020-05-15
 comments: false
 ---
 
+{% capture images %}
+    https://raw.githubusercontent.com/ShXIE-28/ShXIE-28.github.io/master/assets/img/ppp.jpg
+{% endcapture %}
+
 <center>Candidate for Master of Science in Business Analytics (STEM-Designated)</center>
 <center>Brandeis International Business School</center>
 
@@ -21,6 +25,13 @@ Information Visualization, Applied Econometrics with R, Machine Learning and Dat
 
 <p><b>Wilfrid Laurier University&nbsp;&nbsp;&nbsp;Waterloo, Canada&nbsp;&nbsp;09/2017-12/2017</b><br>
 <i>Exchange program</i></p>
+
+
+
+
+
+
+
 
 
 ## Preview
