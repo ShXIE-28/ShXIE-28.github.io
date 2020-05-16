@@ -13,8 +13,8 @@ comments: false
 
 <center>✉: shuhuixie@brandeis.edu &nbsp; 📫: shuhui.xie28@outlook.com &nbsp; 📞: 617-460-3068 &nbsp; 🌏: <a href="https://www.linkedin.com/in/shuhui-xie/">Shuhui Xie(LinkedIn)</a></center>
 
-<center>
-<i>"Everything that kills me makes me feel alive."</i>
-</center>
+<p>
+<h3><i>"Everything that kills me makes me feel alive."</i></h3>
+</p>
 
 [Resume](https://github.com/ShXIE-28/ShXIE-28.github.io/blob/master/assets/Resume%20Shuhui%20Xie_HC.pdf){: .btn}
