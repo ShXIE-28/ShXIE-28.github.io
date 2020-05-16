@@ -6,7 +6,7 @@ date: 2020-05-15
 comments: false
 ---
 
-<img src="https://raw.githubusercontent.com/ShXIE-28/ShXIE-28.github.io/master/assets/img/ppp.jpg" style="zoom:75%"/>
+<img src="https://raw.githubusercontent.com/ShXIE-28/ShXIE-28.github.io/master/assets/img/ppp.jpg">{:height="75%" width="75%"}
 
 <center>Candidate for Master of Science in Business Analytics (STEM-Designated)</center>
 <center>Brandeis International Business School</center>
