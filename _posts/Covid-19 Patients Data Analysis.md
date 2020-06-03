@@ -2,6 +2,7 @@
 layout: post
 title:  "Covid-19 Patients Data Analysis"
 date:   2020-06-02
+excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
 tag:
 - jekyll 
